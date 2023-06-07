@@ -1,0 +1,235 @@
+@media screen and (min-width:992px) and (max-width:1024px){
+	header li a {font-size: 10px;}
+	.fitst_text h1 {font-size: 29px;}
+	.fitst_text p {	font-size: 20px;}
+	.home_third_content p {font-size: 12px;}
+	.home_four_text h1 {font-size: 38px;}
+    .home_four_text p {width: 76%;}
+	.home_five_text h1 {font-size: 39px;}
+	.home_five_content {margin: 60px 0px 60px 56px;}
+	.home_video_img iframe {top: 25%;width: 400px;}
+	.home_count {left: -138px;}
+	.padd_inside {padding: 26px 30px 45px!important;}
+	.cont_main_left p {	font-size: 12px;}
+	.marg_top i {padding: 7px;}
+    .cout_bottom {padding: 40px;}
+	.cont_main_right {padding: 30px;}
+    .cont_main_right_text .cout_first_name,.cont_main_right_text .cout_last_name {padding: 20px;width: 45%;font-size: 17px;}
+	.cont_main_right_text .cout_email,.cont_main_right_text .cout_text_area{padding: 20px;width: 100%;font-size: 17px;}
+	.cont_main_right_text h1 {font-size: 25px;}
+    .cont_main_right_text p { font-size: 17px;}
+	footer .footer_link a {padding-right: 90px;}
+	.contact_second {padding: 0px;}
+    .contact_second_img img{width: 100%; margin-top: 90px; }
+    .contact_third_img img{width: 100%; margin-top: 50px; padding: 70px;} 
+    .contact_third_img {padding: 0px;}
+    .contact_third_content {padding: 37px;}
+	.contact_third_content h2 {width: 100%;}
+}
+@media screen and (min-width:768px) and (max-width:991px){
+	footer .footer_link a {display: block;text-align: center;padding-right: 0px;}
+	footer .footer_link {display: block;}
+	.cout_bottom {padding: 90px 10px;}
+	.cont_main_right {padding: 50px 20px;}
+	.cont_content {padding: 0px 30px 80px;}
+	.contact_first h1 {font-size: 50px;}
+	.cont_main_right_text .cout_first_name {width: 48%;}
+	.cont_main_right_text .cout_first_name,.cont_main_right_text .cout_last_name,.cont_main_right_text .cout_email {padding: 10px;}
+	.contact_second_img img{width: 100%;}
+	.contact_second_content h1 {padding: 0px 0px 30px 50px;}
+    .contact_third_img img{width: 58%;}
+    .contact_third_img {    padding: 30px 165px;}
+    .contact_third_content {    padding: 413px 90px 50px;}
+    .contact_third_content h2 {    margin-top: 20px;}
+    .img_borders {border: none;}
+    .contact_first {    padding: 50px 0px;}
+    .faq_bottom_content {padding: 0px 30px;}
+    .help_table_text {font-size: 15px;}
+    .fitst_text h1 {    font-size: 21px;}
+    .fitst_text p {font-size: 15px;}
+    .left_arrow {top: 63%;}
+    .home_video_img img {    top: 29%;    width: 200px;}
+    .home_count {    margin-top: 50px;     left: -104px;}
+    .home_third_content {    padding: 50px 50px 0px;}
+    .home_four_text {    padding: 50px;}
+    .home_four_text h1 {    font-size: 41px;}
+    .home_four_text p {    width: 70%;}
+    .home_video_img iframe {    top: 20%;width: auto;}
+    .home_five_text h1 {font-size: 30px;}
+    .home_five_content {    margin: 20px;padding: 30px;}
+    .home_five_content h2 {    left: 95px;}
+	.help_border {padding: 10px;}
+	.help_four {padding: 50px;}
+	.help_four h1 {    font-size: 43px;}
+	.help_four h2 {    font-size: 27px; padding: 0px;}
+	.contact_first h1, .how_can_img h1, .short_sale_img h1, .faq_main_img h1, .contact_us_main h1 {    font-size: 45px;}
+	.help_button button {    margin-top: 0px;    font-size: 18px;    padding: 10px 255px;}
+	.ui20{width: 20%;}
+	.ui80{width: 80%; margin-top: 12px;}
+}
+@media screen and (min-width:320px) and (max-width:767px){
+	.contact_first h1 {font-size: 30px;}
+	.cont_content {padding: 20px;}
+	.marg_top i {padding: 12px;}
+	.cont_main_right {padding: 50px 20px;}
+	.cont_main_right_text .cout_first_name,.cont_main_right_text .cout_last_name,.cont_main_right_text .cout_email {padding: 10px;}
+	.cont_main_right_text .cout_first_name,.cont_main_right_text .cout_last_name {width: 100%;margin-left: 0px;}
+	.cont_main_right_text h1 {font-size: 25px;}
+	.cout_bottom {padding: 30px;}
+	footer .footer_content h1,footer .footer_copy h1 {font-size: 17px;text-align: center;    padding: 20px 0px;}
+	.marg_top {margin-top: 55px;}
+	.banner-business,.banner-personal {width: 100%;height: 300px;}
+	.banner-business a,.banner-personal a {top: -150px;}
+}
+@media screen and (min-width:425px) and (max-width:767px){
+ 	.contact_second_img img{width: 100%;}
+    .contact_third_img img{    width: 73%;}
+    .contact_third_img {padding: 45px 55px;}
+	.contact_second {padding: 20px;}
+	.contact_second_content p {font-size: 15px;}
+	.contact_third_content {    padding: 260px 30px 30px;}
+	.contact_first {    padding: 50px 0px;}
+	.contact_third_content h2 {width: 100%;font-size: 15px;    margin-top: 0px;}
+	.img_borders {    border:none;}
+	.contact_third_content p {width: 100%;}
+	.faq_main_text h1 {    font-size: 25px;}	
+	.faq_bottom_content {padding: 0px 50px;}
+	.faq_heading {padding: 20px;font-size: 20px;}
+	.faq_paragraph {padding: 0px;    font-size: 16px;}
+	.faq_main_text {padding: 30px 0px;}
+	.faq_padd {padding: 30px;}
+	.help_third {padding: 30px 10px;}
+	.help_second p {    padding: 30px;}
+	.help_third {    padding: 10px;}
+	.help_four {padding: 20px;}
+	.help_four h1 {font-size: 38px;}
+	.help_four h2 {font-size: 23px;}
+	.help_table_text {font-size: 13px;}
+	.help_border {padding: 20px;}
+	.home_count {    margin-top: 50px;     left: -104px;}
+    .home_third_content {    padding: 50px 50px 0px;}
+    .home_four_text {    padding: 50px;}
+    .home_four_text h1 {    font-size: 32px;}
+    .home_four_text p {    width: 90%;}
+    .home_five_text h1 {font-size: 30px;}
+    .home_five_content {    margin: 20px;padding: 30px;}
+    .home_five_content h2 {    left: 95px;}
+    .home_count {    margin-top: -7px;    left: 0px;}
+    .home_third {margin-top: 157px;}
+    .home_four_text {margin: 0px;width: 100%;}
+    .home_video_img iframe {width: 100%;top: 110%;right: 0%;    padding: 20px;}
+    section.home_five {    margin-top: 460px;}    
+	.home_second img {height: 410px;}
+	.fitst_text {width: 100%;}
+	.fitst_text h1 {font-size: 24px;}
+	.fitst_text p {    font-size: 17px;}
+	.left_arrow {    left: -2%;}
+	label.left_text {    top: 24%;}
+	.home_four_text h1 {width: 100%;}
+	.help_border {padding: 10px;}
+	.help_four h2 {font-size: 17px;    padding: 0px;}
+	.contact_first h1, .how_can_img h1, .short_sale_img h1, .faq_main_img h1, .contact_us_main h1 {    font-size: 30px;}
+	.contact_us_main {padding: 50px 0px;}
+	.cont_main_left {    margin-top: 100px;}
+	#main #faq .card .card-header .btn-header-link.collapsed {padding-left: 20px;    font-size: 14px;}
+	#main #faq .card p {padding: 0px 20px;}
+	.faq_main_img {padding: 50px 0px;}
+	.help_button button {    margin-top: 0px;    font-size: 18px;padding: 10px 111px;}
+	.short_sale_img {    padding: 50px 0px;}
+	.ui20{width: 20%;}
+	.ui80{width: 80%;margin-top: 29px;}
+
+}
+@media screen and (min-width:320px) and (max-width:424px){
+	.contact_second_img img{width: 100%;}
+    .contact_third_img img{    width: 74%;}
+    .contact_second {padding: 20px;}
+	.contact_second_content p {padding: 0px;font-size: 14px;}
+	.contact_second_content h1 {padding: 10px 0px; font-size: 21px;}
+	.contact_third_content h1 {font-size: 21px;}
+	.contact_third_img {    padding: 30px 50px;}
+	.img_borders {    border: none;}
+	.contact_third_content {    padding: 260px 10px 30px;}
+	.contact_third_content h2 {width: 100%;    font-size: 13px;margin-top: 0px;}
+	.contact_first {padding: 50px 0px;}
+	.cont_main_left {padding: 30px 20px 20px;margin-top: 100px;}
+	.cout_location {margin-top: 30px;}
+	.cont_main_right_text button {font-size: 18px;    padding: 20px 0px;}
+	.cont_main_right_text .cout_text_area {    padding: 20px 10px;font-size: 18px;    height: 200px;}
+	.cont_main_right_text .cout_email,.cont_main_right_text .cout_last_name,.cont_main_right_text .cout_first_name {font-size: 18px;}
+	.contact_us_main {    padding: 50px 0px;}
+	.contact_third_content p {width: 100%;    padding-right: 30px;}
+	.faq_main_text h1 {    font-size: 17px;}	
+	.faq_bottom_content {padding: 0px 30px;}
+	.faq_heading {padding: 20px;font-size: 15px;}
+	.faq_paragraph {padding: 0px;    font-size: 16px;}
+	.faq_main_text {padding: 30px 0px;}
+	.faq_padd {padding: 30px;}
+	.help_third {padding: 30px 10px;}
+	.help_second p {    padding: 30px;}
+	.help_third {    padding: 10px;}
+	.help_four {padding: 20px;}
+	.help_four h1 {font-size: 38px;}
+	.help_four h2 {font-size: 23px;}
+	.help_table_text {font-size: 13px;}
+	.help_border {padding: 20px;}
+	.home_count {    margin-top: 50px;     left: -104px;}
+    .home_third_content {    padding: 50px 50px 0px;}
+    .home_four_text {    padding: 50px;}
+    .home_four_text h1 {    font-size: 41px;}
+    .home_four_text p {    width: 90%;}
+    .home_five_text h1 {font-size: 30px;}
+    .home_five_content {    margin: 20px;padding: 30px;}
+    .home_five_content h2 {    left: 95px;}
+    .fitst_text {    width: 100%;}
+    .fitst_text h1 {font-size: 20px;}
+    .fitst_text p {    font-size: 17px;}
+    .home_second img {height: 270px;    padding: 20px;}
+    .home_second_content {    padding: 50px 0px 0px 30px;}
+    .home_second_content h1 {font-size: 24px;}
+    .home_count h2 {    font-size: 13px;}
+    .home_count {margin-top: 0px; left: 0px;padding: 30px 0px;height: auto;}
+    .home_third {margin-top: 160px;}
+    .home_third h1{font-size: 1.5rem;}
+    .home_third_content p {    width: 100%;}
+    .home_third_img {    padding: 50px 30px;}
+    .home_four_text {margin-top: 0px;width: 100%;}
+    .home_video_img iframe {top: 110%;width: auto;padding: 20px;}
+    .home_four_text h1 {width: 100%;    font-size: 22px;}
+    .home_four_text p {width: 100%;font-size: 15px;}
+    .home_video_img img {top: 100%;    width: 100%;    padding: 20px;    right: 0%;}
+    section.home_five {    margin-top: 424px;}
+    .home_five_text h1 {    font-size: 21px;}
+    .home_five_content h2 {font-size: 14px;}
+    .home_five_content p {    font-size: 15px;}
+	.help_four h2 {padding: 0px;}
+	.size_text {font-size: 16px!important;}
+	.contact_first h1, .how_can_img h1, .short_sale_img h1, .faq_main_img h1, .contact_us_main h1 {font-size: 20px;}
+	.faq_main_img {    padding: 50px 0px;}
+	#main #faq .card .card-header .btn-header-link.collapsed {padding-left: 10px;    font-size: 14px;}
+	#main #faq .card p {padding: 0px 10px;}
+	.help_button button {    margin-top: 0px;    font-size: 18px;padding: 10px 62px;}
+	.short_sale_img {    padding: 50px 0px;}
+	.ui20{width: 20%;}
+	.ui80{    width: 72%;margin-top: 29px;    margin-left: 10px;}
+	h2.background {    font-size: 17px;}
+	.text_align{    margin-top: 45px;}
+	.cout_location h1 {    font-size: 17px; padding-top: 0px;}
+	.header_right{    align-items: center;}
+	.fitst_text img {top: 151px;}
+}
+
+@media screen and (min-width:320px) and (max-width:991px){
+	footer .footer_link a {display: block;text-align: center;padding-right: 0px;}
+	footer .footer_link {display: block;}
+	footer .footer_icons i {font-size: 20px;padding-right: 32px;}
+}
+@media only screen and (min-width: 375px) and (max-width: 812px) and (orientation: landscape) { 
+  	.contact_third_content {padding: 425px 30px 30px;}
+	h2.background {    font-size: 15px;}
+	footer .footer_copy h1 { font-size: 15px;}
+	.text_align{    margin-top: 45px;}
+	.header_right{    align-items: center;}
+	.fitst_text img {top: 110px;}
+	.contact_third_content h2 {    margin-top: 10px;}
+}
